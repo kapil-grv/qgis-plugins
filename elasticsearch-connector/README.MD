@@ -40,6 +40,8 @@ This project is a PyQt5-based graphical user interface (GUI) for connecting to a
 
 ## Usage
 
+Download or generate `elasticsearch-connector.zip` by cloning the repo and install it using Plugin Manager in QGIS
+
 Use the GUI to enter the following information:
    - **Host**: Elasticsearch host (e.g., `127.0.0.1`).
    - **Port**: Elasticsearch port (e.g., `9200`).
