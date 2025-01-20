@@ -5,7 +5,13 @@ description=Connects to an Elasticsearch index, executes a query, and loads the 
 version=1.0
 author=Kapil Gauravan Venkatesan
 email=kapilgrv@gmail.com
-about=This plugin allows users to connect to Elasticsearch and query geospatial data to load into QGIS as a layer.
+homepage=https://kapilgrv.in
+repository=https://github.com/kapil-grv/qgis-plugins/tree/main/elasticsearch-connector
+about=This plugin allows users to connect to Elasticsearch and query geospatial data to load into QGIS as a layer. Features include:
+    * Connect to Elasticsearch instances with authentication
+    * Execute custom DSL queries
+    * Load geospatial data as QGIS layers
+    * Support for point, linestring, and polygon geometries
 icon=icons/icon.png
 
 # Update these fields
