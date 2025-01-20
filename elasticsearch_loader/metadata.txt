@@ -1,0 +1,18 @@
+[general]
+name=Elasticsearch Loader
+qgisMinimumVersion=3.0
+description=Connects to an Elasticsearch index, executes a query, and loads the results as a QGIS layer.
+version=1.0
+author=Kapil Gauravan Venkatesan
+email=kapilgrv@gmail.com
+homepage=https://kapilgrv.in
+tracker=https://github.com/kapil-grv/qgis-plugins/issues
+repository=https://github.com/kapil-grv/qgis-plugins/tree/main/elasticsearch-loader
+about=This plugin allows users to connect to Elasticsearch and query geospatial data to load into QGIS as a layer.
+icon=icons/icon.png
+tags=elasticsearch,vector,database,qgis,plugin,geospatial,data
+
+deprecated=False
+
+# The main class that will be instantiated by QGIS
+class_name=es_connector.ElasticsearchPlugin
