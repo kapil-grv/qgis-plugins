@@ -1,5 +1,5 @@
 # Elasticsearch Connector
-[Available here](https://plugins.qgis.org/plugins/elasticsearch_loader)
+[Available here](https://plugins.qgis.org/plugins/elasticsearch_loader) at QGIS Plugins Repository
 
 This project is a PyQt5-based graphical user interface (GUI) for connecting to an Elasticsearch instance, running queries, and displaying the results in a QGIS-compatible format. The application supports optional password authentication for enhanced security.
 
